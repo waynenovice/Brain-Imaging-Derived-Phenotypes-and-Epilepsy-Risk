@@ -1,5 +1,3 @@
-#### Pyradiomics ####
-
 #### Radiomics Features ####
 dt <- read.csv("radiomics_features-right_pallidum.csv", sep = ",")
 
